@@ -33,6 +33,16 @@ h1 {
   cursor: pointer;
 }
 
+#start-game {
+  background-color: rgb(58, 201, 82);
+  border: 1px solid rgb(58, 201, 82);
+}
+
+#start-game:hover {
+  background-color: rgb(18, 151, 40);
+  border: 1px solid rgb(18, 151, 40);
+}
+
 .btn-alt {
   background-color: transparent;
   border-color: transparent;
